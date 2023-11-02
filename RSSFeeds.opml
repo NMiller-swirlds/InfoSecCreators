@@ -1,6 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
 
 <opml version="1.0">
+    <head>
+        <title>InfoSec Creators</title>
+    </head>
     <body>
             <outline type="rss" text="Securibee Hive Five" title="Securibee Hive Five" xmlUrl="https://feedly.com/email/qzqtima4nbgwwf2t4yrb"/>
             <outline type="rss" text="Executive Offence" title="Executive Offence" xmlUrl="https://feedly.com/email/o5l71lj876wrsqk68g7s"/>
